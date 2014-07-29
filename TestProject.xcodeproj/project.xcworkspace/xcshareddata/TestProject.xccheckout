@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E822AAF-05DC-4983-8701-65CFCB44F198</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>611B2697-5DED-4E90-B06E-23605196E50B</key>
+		<string>https://github.com/sushieunguyen/leexungapp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>611B2697-5DED-4E90-B06E-23605196E50B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sushieunguyen/leexungapp</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>611B2697-5DED-4E90-B06E-23605196E50B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>611B2697-5DED-4E90-B06E-23605196E50B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>leexungapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
